@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: node-typescript-sda
+description: Chart to configure ArgoCD with the node-typescript-sda project and its applications
